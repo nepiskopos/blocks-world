@@ -2,6 +2,7 @@
 
 This repository contains 2 Python source code files with a simple implementation of a solution to the [Blocks world problem](https://www.kaggle.com/camnugent/california-housing-prices).<br/>
 
+The approach followed in this solution is combining the A* search algorithm with a simple heuristic functions that counts the number of blocks that are placed in the wrong position.
 
 This software supports up to 26 blocks (as many as the number of letters in the English alphabet).
 
